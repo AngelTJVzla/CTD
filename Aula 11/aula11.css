@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    border: 0; 
+    
+  }
+
+
+  
+
+
+.box {
+  width: 350px;
+  height: 350px;
+  margin-top: 0px;
+  text-align: center;
+
+}
+
+.box  h1 {
+
+    padding-top: 150px;
+}
+.box-first {
+
+
+  background-color: coral;
+}
+.box-second {
+  height: 250;
+  background-color: cyan;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  
+}
+
+.box-third {
+  background-color: rgb(162, 233, 32);
+  position:fixed ;
+  left: calc(50% - 350px/2);
+  bottom: 0;
+}
+
