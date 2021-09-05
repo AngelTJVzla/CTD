@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+.banner{
+
+    background-image:url("imagen..jpg");
+    height: 1000px;
+    width: 1000px;
+    padding: 48px  0px 12px;
+    border: 6px solid chartreuse ;
+    margin: 48px;
+    border-radius: 10%;
+    position: relative;
+
+} 
+
+h1 {
+    color: rgb(8, 110, 33);
+    text-align: center;
+}
+h2 {
+    color: darkmagenta;
+    text-align: center;
+}
+button {
+ font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+ right: 100px;
+ bottom: 50px;
+position: absolute;
+
+} 
