@@ -1,0 +1,27 @@
+
+
+form {
+    background-color: rgb(169, 228, 225);
+    width: 400px;
+    margin:0 auto;
+    padding: 22px;
+}
+h1 {
+    color:darkslategray ;
+}
+
+
+img {
+    width: 400px;
+    
+}
+
+
+input {
+    border: 1px solid rgb(221, 183, 29);
+    padding: 09px;
+    display: block;
+    margin-bottom: 10px;
+
+
+}
