@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+   
+}
+
+.titulo {
+    font-size: 23px;
+    text-align: center;
+    font-family: cursive;
+    color: blue;
+}
+
+header {
+    top: 0;
+    overflow: hidden;
+    background-color: yellow;
+    margin: bottom 10px;
+    width: 90%;
+    max-width: 1000px;
+    height: 100px;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 30px;
+}
+
+header img {
+    line-height: 20px;
+    float: left;
+    width: 150px;
+    height: 120px;
+}
+
+.box-logo img {
+    width: auto;
+    height: 60px;
+}
+
+header nav {
+    float: right;
+    line-height: 100px;
+}
+
+header nav a
+ {
+    display: inline-block;
+    color: rgb(214, 75, 75);
+    text-decoration: none;
+    padding: 10px 25px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: all 500ms ease-in;
+    -moz-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+p{color: white;
+
+}
+
+div {
+    align-content: center;
+}
+
+.menu-topo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+body{
+    width: 100%;
+    background-image: url("dulces-sonrientes.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h2 {
+    color: darkslategray;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: rgb(189, 40, 139);
+    padding: 20px;
+
+}
+
+img {
+
+    width: 200px;
+    border-radius: 15px;
+}
+
+.menu-topo {
+
+    text-align: center;
+    padding: 0px;
+    color: rgb(170, 149, 30);
+    margin: 10px;
+}
+
+.doces {
+    text-align: center;
+
+}
+
+input {
+    border: 1px solid rgb(221, 183, 29);
+    padding: 09px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    color: rgb(111, 207, 126);
+    margin: 10px;
+    background-color: rgb(194, 255, 71);
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: rgb(172, 202, 111);
+    padding: 0.3%;
+}
+
+form {
+    background-color: rgb(214, 132, 183);
+    text-align: center;
+
+}
+
+.city {
+    font-size: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: midnightblue;
+}
+
+footer {
+    text-align: center;
+    color: olive;
+}
